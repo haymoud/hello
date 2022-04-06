@@ -1,0 +1,19 @@
+form {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+    padding: 1%;
+    margin: 1%;
+}
+form center {
+    padding: 1%;
+}
+ul li {
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+
+}
